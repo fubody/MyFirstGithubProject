@@ -17,4 +17,5 @@ int main(int argc, char **argv) {
 	printf("(%d + %d) = %d", a, b, add(a, b));
 	printf("(%d - %d) = %d", a, b, minus(a, b));
 	return 1;
+
 }
